@@ -59,5 +59,5 @@ class Meta:
     verbose_name_plural = 'tickets'
 
 def __str__(self):
-    """ Return a string representation of the model."""
+ 
     return self.text
